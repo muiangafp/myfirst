@@ -3,3 +3,4 @@
 Welcome to the mozembedded labs
 
 If you dont Know yet mozembeddeds is a conglomerate of tech and busniss industries that work together
+We design embbeded systems of different types
